@@ -28,6 +28,8 @@ Este es un sistema para gestionar tus gastos e ingresos de manera eficiente.
 En este proyecto se emplean dos lenguajes de programación (para el frontend y backend) y una estructura de base de datos bien planificada. El sistema puede ser desplegado en un servidor en la nube.
 
 
+## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Screenshots
